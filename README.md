@@ -1,3 +1,7 @@
+# Simulation
+<img width="1275" height="875" alt="Screenshot from 2026-06-14 01-23-51" src="https://github.com/user-attachments/assets/e6e4678f-88f2-4213-b740-360c72491137" />
+
+
 # Kinematic Model
 
 ## Pan Rotation
