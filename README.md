@@ -298,5 +298,5 @@ k_2
 
 Where:
 
-* (k_1) is the pan interpolation coefficient
-* (k_2) is the tilt interpolation coefficient
+- $k_1$ is the pan interpolation coefficient  
+- $k_2$ is the tilt interpolation coefficient
